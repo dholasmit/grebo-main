@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>870606670934-r3bnj9k4pcl8vkodjsb9e70sk0i0gss3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.870606670934-r3bnj9k4pcl8vkodjsb9e70sk0i0gss3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>870606670934-45o4vno0nr19mik0bpravmtimd9l2v50.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASRrlkBg6CYEnVbzZDtObouh2q6Pgm3es</string>
+	<key>GCM_SENDER_ID</key>
+	<string>870606670934</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.grebo</string>
+	<key>PROJECT_ID</key>
+	<string>grebo-5a15d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>grebo-5a15d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:870606670934:ios:0ad7ee22774f6ef3873ff7</string>
+</dict>
+</plist>

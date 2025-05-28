@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "870606670934",
+    "project_id": "grebo-5a15d",
+    "storage_bucket": "grebo-5a15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870606670934:android:a7451333742086b3873ff7",
+        "android_client_info": {
+          "package_name": "com.app.grebo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870606670934-27b5ljaom61ofl9bm2vff2f111efo2ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.grebo",
+            "certificate_hash": "083256b1793b3359cece413c185ea6eda9485b99"
+          }
+        },
+        {
+          "client_id": "870606670934-aqmqlrg4kh11rq9itea4rgd7q6mu8sk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.grebo",
+            "certificate_hash": "c02d72cf8c859acd0ad5a7a45bbe7c508c0b4e57"
+          }
+        },
+        {
+          "client_id": "870606670934-t36d2g8kudhn157sf02jjr8d55s3fljj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.grebo",
+            "certificate_hash": "9a758287d54c1f66d389daeaa51abb8d8004a06f"
+          }
+        },
+        {
+          "client_id": "870606670934-srhkoi2vjl0mcjbk9ppigg287hv3s8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3himrA98WA7CJIQBqnlq3vdTH7px7bzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870606670934-srhkoi2vjl0mcjbk9ppigg287hv3s8pr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870606670934-r3bnj9k4pcl8vkodjsb9e70sk0i0gss3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.grebo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

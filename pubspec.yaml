@@ -1,0 +1,110 @@
+name: grebo
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+3
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  get: ^4.3.4
+  flutter_svg: ^0.22.0
+  readmore: ^2.1.0
+  url_launcher: ^6.0.9
+  flutter_rating_bar: ^4.0.0
+  image_picker: ^0.8.4+4
+  fluttertoast: ^8.0.8
+  keyboard_actions: ^3.4.3
+  flutter_datetime_picker: ^1.5.1
+  intl: ^0.17.0
+  image_cropper: ^1.4.1
+  video_player: ^2.1.12
+  http: ^0.13.3
+  connectivity: ^3.0.6
+  get_storage: ^2.0.3
+  path: ^1.8.0
+  pagination_view: ^2.0.0
+  path_provider: ^2.0.2
+  video_compress: ^3.1.0
+  firebase_auth: ^3.2.0
+  google_sign_in: ^5.2.1
+  firebase_core: ^1.7.0
+  sign_in_with_apple: ^3.2.0
+  firebase_messaging: ^11.1.0
+  flutter_facebook_auth: ^3.5.2
+  http_parser: ^4.0.0
+  mime_type: ^1.0.0
+  flutter_google_places: ^0.3.0
+  permission_handler:
+  google_maps_webservice: ^0.0.19
+  geolocator: ^8.2.0
+  google_api_headers: ^1.1.1
+  location: ^4.3.0
+  geocoding: ^2.0.1
+  google_maps_flutter: ^2.0.6
+  socket_io_client: ^1.0.1
+  notification_permissions: ^0.6.1
+  google_mobile_ads: ^0.13.5
+  flutter_local_notifications: ^6.0.0
+  map_launcher: ^2.1.1
+  flutter_keychain: ^2.1.0
+  audio_video_progress_bar: ^0.10.0
+  cached_network_image: ^3.2.0
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/splash/icon.png"
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+#    - assets/country.json
+    - assets/splash/
+    - assets/image/onboarding/
+    - assets/image/selectservice/
+    - assets/image/login/
+    - assets/image/signup/
+    - assets/image/home/
+    - assets/image/static/
+    - assets/image/business profile/
+    - assets/image/profile/
+    - assets/image/editBusinessProfile/
+
+  fonts:
+    - family: Nexa
+      fonts:
+        - asset: assets/fonts/Nexa/NexaRegular.otf
+        - asset: assets/fonts/Nexa/NexaBold.otf
+          weight: 700
+    - family: Opensans
+      fonts:
+        - asset: assets/fonts/Opensans/OpenSans-Regular.ttf
+
+
+
+
